@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Najat</h1>
-<h3 align="left">I'm a computer science student at LAU</h3>
+<h3 align="left">I'm a statistics and data science master's student at UNR</h3>
 
 📫 How to reach me: **najatgnehme@gmail.com**
 
